@@ -19,7 +19,6 @@ class SignupFragment : Fragment(R.layout.fragment_signup) {
             val username = binding.usernameInput.editText?.text.toString()
             val password = binding.passwordInput.editText?.text.toString()
             // Add user with username and password into firebase
-
                 view.findNavController().navigate(R.id.action_signupFragment_to_LoginFragment)
 
         }

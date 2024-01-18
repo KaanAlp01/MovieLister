@@ -17,7 +17,8 @@
     <fragment
         android:id="@+id/movieDetailFragment"
         android:name="com.example.movielister.fragment.MovieDetailFragment"
-        android:label="MovieDetailActivity" >
+        android:label="MovieDetailActivity"
+        tools:layout="@layout/activity_movie_detail" >
         <action
             android:id="@+id/action_movieDetailFragment_to_mainFragment"
             app:destination="@id/mainFragment" />
