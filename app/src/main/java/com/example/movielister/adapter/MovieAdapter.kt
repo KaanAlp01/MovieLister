@@ -11,7 +11,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.movielister.MovieDetailActivity
 import com.example.movielister.R
-import com.example.movielister.fragment.MovieDetailFragment
 import com.example.movielister.model.Movie
 class MovieAdapter(val dataset:List<Movie>): RecyclerView.Adapter<MovieAdapter.MovieViewHolder>() {
 
