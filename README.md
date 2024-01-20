@@ -15,14 +15,14 @@ Prerequisites:
 Before you begin, ensure you have the following:
 Android Studio installed on your development machine.
 A Firebase project created on the Firebase Console.
-Setup Instructions
-Clone the repository:
-git clone [https://github.com/your-username/movie-app.git](https://github.com/KaanAlp01/MovieLister.git)
-Open the project in Android Studio.
 
+Setup Instructions:
+Clone the repository:
+git clone (https://github.com/KaanAlp01/MovieLister.git)
+Open the project in Android Studio.
 Build and run the app on an emulator or physical device.
 
-Firebase Configuration
+Firebase Configuration:
 
 1-)Firebase Authentication:
 Enable Email/Password sign-in method.
