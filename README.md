@@ -7,7 +7,6 @@ Features:
 
 Authentication: Users can create accounts, sign in, and securely authenticate using Firebase Authentication.
 Real-time Database: The app utilizes Firebase Realtime Database to store and retrieve movie information in real-time.
-Storage: Firebase Cloud Storage is employed to store and retrieve images associated with movies.
 User-Friendly Interface: The app is designed with a user-friendly interface to navigate through the list of movies and view details.
 
 Prerequisites:
